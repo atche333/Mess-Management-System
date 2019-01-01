@@ -1,0 +1,2 @@
+# Mess-Management-System
+The main aim behind this minor project is to manage details regarding the student info, employee info, stock details, mess menu, coupons bought by students etc… It will have a positive impact on the mess proceeding, making it more organised. Amount of food wasted will decrease as the mess staff will have a prior estimate of the student count.Softwares used are: Front end – HTML,php ; Back end – MYSQL ; Web server platform - Xampp
